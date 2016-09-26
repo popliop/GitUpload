@@ -10,6 +10,7 @@ public class Main {
 		System.out.println();
 		//ss
 		System.out.println("hej");
+		System.out.println("test 1");
 
 	}
 
