@@ -11,6 +11,7 @@ public class Main {
 		//ss
 		System.out.println("hej");
 		System.out.println("test 1");
+		System.out.println("test 2");
 
 	}
 
