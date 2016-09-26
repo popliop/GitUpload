@@ -12,6 +12,7 @@ public class Main {
 		System.out.println("hej");
 		System.out.println("test 1");
 		System.out.println("test 2");
+		System.out.println("Test 3");
 
 	}
 
